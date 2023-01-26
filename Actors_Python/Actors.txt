@@ -1,0 +1,6 @@
+Will Smith,45,I Am Legend,8.2
+Sandra Bullock,49,Gravity,5.6
+Tom Cruise,51, Mission Impossible 3,10.0
+Michael Fassbender,36,12 Years a Slave,4.4
+Jennifer Lawrence,23,Hunger Games,5.9
+Seth Rogan,31,This is the End,5.1
