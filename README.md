@@ -4,7 +4,7 @@ This program is made to ask the user what actors pay they want to see that make 
 
 This program makes use of:
 
-Records S
+Records 
 
 Standard Algorithms
 
